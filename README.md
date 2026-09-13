@@ -1,6 +1,6 @@
 # Nikita Heumann
 
-Building something new with [@changkun](https://github.com/changkun). Ex-BCG Platinion, Sixt, Volkswagen. Munich.
+Building something new. Ex-BCG Platinion, Sixt, Volkswagen. Munich.
 
 I started on a Volkswagen shop floor at 18 as a mechatronics apprentice, then spent 10+ years bringing software into automotive R&D, production planning and ERP, rail infrastructure, mobility and AI pricing. At BCG Platinion I was a hands-on contributor to an internal platform for agentic software delivery, 100+ contributions, and led an AI agent for requirements specification into production. B.Eng. in mechatronics, MBA from HHL Leipzig with a semester at NYU Stern.
 
